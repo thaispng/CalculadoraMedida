@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-picker/picker": "^2.7.6",
     "expo": "~51.0.9",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.1"
+    "react-native": "0.74.1",
+    "react-native-picker-select": "^9.1.3",
+    "tailwindcss-react-native": "^1.7.10",
+    "twrnc": "^4.2.0",
+    "typescript": "~5.3.3",
+    "@types/react": "~18.2.79"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
